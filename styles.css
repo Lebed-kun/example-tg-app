@@ -1,18 +1,18 @@
 @font-face {
   font-family: 'Bebas';
-  src: url('./fonts/BebasNeuePro-Regular.woff2') format('woff');
+  src: url('/example-tg-app/fonts/BebasNeuePro-Regular.woff2') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Bebas Bold';
-  src: url('./fonts/BebasNeuePro-Bold.woff2') format('woff');
+  src: url('/example-tg-app/fonts/BebasNeuePro-Bold.woff2') format('woff');
 }
 
 @font-face {
   font-family: 'Bebas Thin';
-  src: url('./fonts/BebasNeuePro-Thin.woff2') format('woff');
+  src: url('/example-tg-app/fonts/BebasNeuePro-Thin.woff2') format('woff');
 }
 
 * {
